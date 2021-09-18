@@ -1,0 +1,18 @@
+{
+  "name": "arnowa-backend",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon App.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6",
+    "nodemon": "^2.0.12"
+  }
+}
